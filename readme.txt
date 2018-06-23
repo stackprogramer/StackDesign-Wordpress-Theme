@@ -1,21 +1,21 @@
-# StackDesign-Wordpress-Theme
+﻿=== Stack Design ===
+Contributors: StackDesign team
+Requires at least: WordPress 4.1
+Tested up to: WordPress 5.0-trunk
+Version: 2.0
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Tags: bootstrap, wordpress theme,stackdesign,stackprogramer,stack design blog,responsive,bootstrap,persian blog,english blog, 
+blog, two-columns, left-sidebar, accessibility-ready, custom-logo, custom-menu, editor-style, featured-images,rtl-language-support,
+ sticky-post, threaded-comments, translation-ready,قالب فارسی وردپرس
+, بوت استرپ, قالب بسیار زیبا وردپرس, قالب راست چین, طراحی استک, استک پروگرمر,وبلاگ استک دیزاین, قالب فارسی 
 
 
-## Template Features:
-
-* Using Bootstrap 3 in designing
-
-* Using jQuery 1.1.1 in designing
-
-* Using BYekan font
-
-## StackDesign:
-[En]The design of the Stack Design  template was designed to create
-a beautiful and responsive template for Persian and English-language
- blogs. The design of this template is based on the famous CSS
- framework, bootstrap. The first version of this template was released
- free charge in June 2018 <a href="https://blog.stackprogramer.xyz/en">English demo</a>. ,[Fa] قالب استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف 
-سی اس اس یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت رایگان منتشر شده است <a href="https://blog.stackprogramer.xyz/">دمو فارسی</a>
+== Description ==
+[En]The design of the Stack Design  template was designed to create a beautiful and responsive template for Persian and English-language
+ blogs. The design of this template is based on the famous CSS framework, bootstrap. The first version of this template was released
+ free charge in June 2018<p><a href="https://blog.stackprogramer.xyz/en">English demo</a></p>. ,[Fa] قالب استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف 
+سی اس اس یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت رایگان منتشر شده است <p><a href="https://blog.stackprogramer.xyz/">دمو فارسی</a></p>
 
 * Mobile-first, Responsive Layout
 * Custom Colors-In pro version
@@ -27,18 +27,15 @@ a beautiful and responsive template for Persian and English-language
 
 For more information about Stack Design  template please go to https://blog.stackprogramer.xyz/.
 
+== Installation ==
 
-
-## Installation
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Upload  StackDesign theme zip file in the add new form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
 4. Go to https://github.com/stackprogramer/StackDesign-Wordpress-Theme for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
-
-
-## Copyright 
+== Copyright ==
 
 StackDesign WordPress Theme, Copyright 2018 https://blog.stackprogramer.xyz .
 StackDesign is distributed under the terms of the GNU GPL
@@ -73,10 +70,9 @@ Licenses:MIT License
 Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3%D8%AE%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D9%88%D9%86%D8%AA-%D8%A8%DB%8C-%DB%8C%DA%A9%D8%A7%D9%86-b-yekan
 
 
-## Changelog
-* v.1 released: June 23, 2018
+== Changelog ==
+
+= .1 =
+* Released: June 23, 2018
+
 Initial release
-
-
-
-
