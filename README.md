@@ -74,6 +74,7 @@ Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3
 
 
 ## Changelog
+* v.7 released: August 7, 2018 , I completed some css properties ana adding topbar and bottombar postions, improving typography
 * v.1 released: June 23, 2018
 Initial release
 
