@@ -1,51 +1,53 @@
 /*
-Theme Name: StackDesign wordpress template
-Theme URI: https://wordpress.org/themes/stackdesign/
-Author: the stackprogramer
-Author URI: https://blog.stackprogramer.xyz/
-Description: [En]The design of the Stack Design  template was designed to create a beautiful and responsive template for Persian and English-language blogs. The design of this template is based on the famous CSS framework, bootstrap. The first version of this template was released free charge in June 2018<p><a href="https://blog.stackprogramer.xyz/en">English demo</a></p>. ,[Fa] قالب استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف سی اس اس یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت رایگان منتشر شده است <p><a href="https://blog.stackprogramer.xyz/">دمو فارسی</a></p>.
-
-Version: 0.1
-License: GNU General Public License v3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-Tags:bootstrap, wordpress theme,stackdesign,stackprogramer,stack design blog,responsive,bootstrap,persian blog,english blog, blog, two-columns, left-sidebar, accessibility-ready, custom-logo, custom-menu, editor-style, featured-images,rtl-language-support, sticky-post, threaded-comments, translation-ready,قالب فارسی وردپرس, بوت استرپ, قالب بسیار زیبا وردپرس, قالب راست چین, طراحی استک, استک پروگرمر,وبلاگ استک دیزاین, قالب فارسی 
-Text Domain: stackdesign
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
+*Theme Name: StackDesign wordpress template
+*Theme URI: https://wordpress.org/themes/stackdesign/
+*Author: the stackprogramer
+*Author URI: https://blog.stackprogramer.xyz/
+*Text Domain: stackdesign
+* Domain Path: /languages
+*Description: [En]The design of the Stack Design  template was designed to create a beautiful and responsive template for Persian and English-language blogs. The design of this template is based on the famous CSS framework, bootstrap. The first version of this template was released free charge in June 2018<p><a href="https://blog.stackprogramer.xyz/en">English demo</a></p>. ,[Fa] قالب استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف سی اس اس یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت رایگان منتشر شده است <p><a href="https://blog.stackprogramer.xyz/">دمو فارسی</a></p>.
+*Version: 0.7
+*License: GNU General Public License v3 or later
+*License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+*Tags:bootstrap, wordpress theme,stackdesign,stackprogramer,stack design blog,responsive,bootstrap,persian blog,english blog, blog, two-columns, left-sidebar, accessibility-ready, custom-logo, custom-menu, editor-style, featured-images,rtl-language-support, sticky-post, threaded-comments, translation-ready,قالب فارسی وردپرس, بوت استرپ, قالب بسیار زیبا وردپرس, قالب راست چین, طراحی استک, استک پروگرمر,وبلاگ استک دیزاین, قالب فارسی 
 */
 
 @font-face {
 	font-family: 'BYekan';
-	src: url('http://fontonline.ir/fonts/BYekan.eot?#') format('eot'), url('http://fontonline.ir/fonts/BYekan.ttf') format('truetype'), url('http://fontonline.ir/fonts/BYekan.woff') format('woff');
+	src: url('../css/BYekan.eot') format('eot'), url('../css/BYekan.ttf') format('truetype'), url('../css/BYekan.woff') format('woff');
 }
 body {
-	font-family: BYekan, 'BYekan', tahoma;
-	font-weight: 100;
-	vfont-style: normal;
+	font-family: BYekan, 'BYekan';
+	font-size:13px;
+	font-weight:100 !important;
 	color: #000;
 }
 h1, .h1 {
 	margin-top: 0;
-	font-family: BYekan, 'BYekan', tahoma;
-	font-weight: normal;
+    font-weight:200 !important;
+	font-size: 18px !important;
+	font-style: italic;
+
+
 }
 h2, .h2 {
 	margin-top: 0;
-	font-family: BYekan, 'BYekan', tahoma;
-	font-weight: normal;
-	font-size: 16px;
+	font-weight:200 !important;
+	font-size: 16px !important;
+	font-style: italic;
 }
 h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 	margin-top: 0;
-	font-family: BYekan, 'BYekan', tahoma;
-	font-weight: normal;
+	font-weight:200 !important;
+	font-size: 14px !important;
 	background-color: transparent;
+	font-style: italic;
+
 }
 blockquote {
 	color: #008000;
 	background: #fff;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 /*
@@ -72,7 +74,6 @@ blockquote {
 	position: relative;
 	display: inline-block;
 	padding: 10px;
-	font-weight: 100;
 }
 .current_page_item {
 	background-color: #E5EAEF;
@@ -122,7 +123,6 @@ blockquote {
 	margin-top: 20px;
 	margin-bottom: 0;
 	font-size: 16px;
-	font-weight: normal;
 	color: #fff;
 }
 .blog-description {
@@ -134,7 +134,7 @@ blockquote {
  */
 
 .blog-main {
-	font-size: 14px;
+	font-size: 12px !important;
 	margin-top: 30px;
 	line-height: 1.5;
 }
@@ -180,7 +180,7 @@ blockquote {
 }
 .blog-post-title {
 	margin-bottom: 5px;
-	font-size: 25px;
+	font-size: 17px;
 }
 .readmore {
 	margin-top: 25px;

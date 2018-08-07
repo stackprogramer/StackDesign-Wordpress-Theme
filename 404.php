@@ -12,14 +12,14 @@ get_header(); ?>
     <section class="error-404 not-found">
       <header class="page-header alert alert-danger ">
         <h1 class="page-title">
-          <?php _e( 'Oops! That page can&rsquo;t be found.', 'twentyfifteen' ); ?>
+          <?php _e( 'Oops! That page can&rsquo;t be found.', 'stackdesign' ); ?>
         </h1>
       </header>
       <!-- .page-header -->
       
       <div class="page-content ">
         <p   class="page-header alert alert-success">
-          <?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyfifteen' ); ?>
+          <?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'stackdesign' ); ?>
         </p>
         <?php get_search_form(); ?>
       </div>

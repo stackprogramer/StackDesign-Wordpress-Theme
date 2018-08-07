@@ -67,8 +67,8 @@
 }
 .list-group .list-group-item .list-group-item-heading {
 	color: rgba(0, 0, 0, 0.77);
-	font-size: 20px;
-	line-height: 29px;
+	font-size: 12px;
+	line-heigh:1px;
 }
 .list-group .list-group-separator {
 	clear: both;
@@ -110,7 +110,7 @@
 .explore a {
 	color: green;
 	font-size: 13px;
-	font-weight: 600
+	font-weight: 100;
 }
 .twitter a {
 	color: #4099FF
@@ -124,8 +124,8 @@
 	display: inline-block;
 	padding: 6px 12px;
 	margin-bottom: 0;
-	font-size: 14px;
-	font-weight: 400;
+	font-size: 12px;
+	font-weight: 100;
 	line-height: 1.42857143;
 	text-align: center;
 	white-space: nowrap;
@@ -141,8 +141,9 @@
 	border: 1px solid transparent;
 	border-radius: 4px;
 	color: #fff;
-	background-color: #5bc0de;
-	border-color: #46b8da;
+	background-color: #337ab7;
+	border-color: #337ab7;
+	
 }
 .wp-post-image {
 	display: block;

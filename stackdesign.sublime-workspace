@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"F",
+				"Facebook"
+			],
+			[
+				"Fac",
+				"Facenama"
+			],
+			[
+				"cl",
+				"cloob"
+			],
+			[
+				"social-share-face",
+				"social-share-facenama"
+			],
+			[
+				"cent",
+				"align-content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 4771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tod",
+		"selected_items":
+		[
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"t",
+				"TodoReview: Open Files"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"sublime.version()",
+			"Todo",
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/inc/custom-header.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/functions.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/content.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/index.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style-rtl.css",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/widgets.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/style.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/bloglist.css",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesignsocialprofile.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/socialbuttons.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/stackdesignsocialshare.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/setting.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/comment.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/footer.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/widgets-rtl.css",
+		"/C/xampp/htdocs/wps2/wp-content/plugins/StackDesignSocialShare-2/style-rtl.css",
+		"/C/xampp/htdocs/wps2/wp-content/plugins/StackDesignSocialShare-2/style.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/ribboncorner.css",
+		"/C/Users/root/Documents/laravel/hashnet/artisan",
+		"/C/Users/root/Documents/laravel/hashnet/config/app.php",
+		"/C/Users/root/Documents/laravel/hashnet/.env",
+		"/C/Users/root/Documents/laravel/hashnet/gulpfile.js",
+		"/C/Users/root/Documents/laravel/hashnet/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php",
+		"/C/Users/root/Documents/laravel/hashnet/resources/views/welcome.blade.php",
+		"/C/Users/root/Documents/laravel/hashnet/resources/views/welcome.blade.html",
+		"/C/Users/root/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-mousemap",
+		"/C/Users/root/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/root/Desktop/test.txt",
+		"/C/Users/root/Desktop/.test.swp",
+		"/C/Users/root/Documents/laravel/hashnet/errorslog.log",
+		"/C/Users/root/Documents/laravel/hashnet/app/Http/routes.php",
+		"/C/Users/root/Documents/laravel/hashnet/resources/views/start.blade.php",
+		"/C/Users/root/Documents/laravel/hashnet/app/Http/Controllers/Controller.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_003545_create_unkeyed_cryptographic_hash_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_003356_create_un_keyed_cryptographic_hash_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_002843_create_unkeyed_cryptographic_hash_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_002126_create_unkeyed_cryptographic_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_002021_create_unkeyed-cryptographic_hash_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_04_000838_create_hashocean-unkeyed-cryptographic_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_234347_create_hashocean_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_234242_create_hashocean_unkeyedcryptographic_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_233629_create_hashocean_unkeyed_cryptographic_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_233722_create_hashocean_unkeyed_cryptographic_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_233754_create_hashocean_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_232904_create_hashocean_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_104719_create_hashocean_unkeyed_cryptographic_hash_functions_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_102258_create_hash_table.php",
+		"/C/Users/root/Documents/laravel/hashnet/database/migrations/2018_08_03_092218_create_hashnet_tables.php",
+		"/C/Users/root/Documents/laravel/hashnet/config/auth.php",
+		"/C/Users/root/Documents/laravel/hashnet/.env.example",
+		"/C/Users/root/Documents/laravel/hashnet/server.php",
+		"/C/Users/root/Documents/laravel/hashnet/.gitattributes",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/resources/views/welcome.blade.php",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/composer.json",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/config/app.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/functions.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/header.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/inc/customizer.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/inc/custom-header.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/style.css",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/footer.php",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/BYekan.eot",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/BYekan.ttf",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/BYekan.woff",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/glyphicons-halflings-regular.woff2",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/glyphicons-halflings-regular.woff",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/glyphicons-halflings-regular.eot",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/fonts/glyphicons-halflings-regular.svg",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/languages/stackdesign-en_AU.mo",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/languages/stackdesign-fa_IR.mo",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/languages/stackdesign-en_AU.po",
+		"/C/Users/root/AppData/Local/Temp/Rar$DI03.123/document.json",
+		"/C/Users/root/AppData/Local/Temp/Rar$DI02.582/14BCA7E2-404C-436C-89AB-030E096C6D74.json",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/resources/views/css/style.css",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/resources/views/Readme.txt",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/public/robots.txt",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/routes/console.php",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/routes/web.php",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/public/favicon.ico",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/public/index.php",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/config/view.php",
+		"/C/Users/root/Documents/laravel/OBJECTDETECTOR/app/User.php",
+		"/C/Users/root/Documents/laravel/ObjectDetectorWebsite/tests/ExampleTest.php",
+		"/C/Users/root/Desktop/WP/StackDesignApp/app/src/main/java/xyz/stackprogramer/stackdesign/stackdesign/NewAsync.java",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/readme.txt",
+		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/index.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/custom-header.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/customizer.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/functions.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/style-rtl.css",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/socialbuttons.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/stackdesignsocialshare.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/setting.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/languages/StackDesignSocialShare-fa_IR.po",
+		"/C/Users/root/Desktop/New folder (2)/stackdesign/functions.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/hello.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/style.css",
+		"/C/Users/root/AppData/Local/Temp/Rar$DI00.562/style.css",
+		"/C/Users/root/Desktop/New folder (2)/stackdesign/inc/template-tags.php",
+		"/C/Users/root/AppData/Local/Temp/Rar$DI00.266/style.css",
+		"/C/Users/root/Desktop/New folder (2)/stackdesign/style.css",
+		"/C/Users/root/Downloads/royaiearia-13970507.blogfa",
+		"/C/Users/root/Desktop/index.html",
+		"/C/Users/root/Desktop/posts.json",
+		"/C/Users/root/Desktop/1.json",
+		"/C/Users/root/Desktop/2.java",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/template-tags.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/content.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/search.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/content-search.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/readme.txt",
+		"/C/Users/root/Desktop/WP/StackDesignApp/app/build/outputs/apk/debug/output.json",
+		"/C/Users/root/Desktop/d.java",
+		"/C/Users/root/Desktop/WP/StackDesignApp/.gitignore",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/back-compat.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesign-social-profile-widget.css",
+		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialprofile/README.md",
+		"/C/Users/root/Desktop/WP/twentyfifteen/index.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/readme.txt",
+		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialprofile/stackdesignsocialprofile.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/stackdesignsocialshare.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/socialprofile/stackdesign-social-profile-widget.css",
+		"/C/xampp/htdocs/wp/wp-content/plugins/socialprofile/scialprofile.php",
+		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/socialbuttons.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/README.md",
+		"/C/Users/root/Desktop/New folder (2)/stackdesignsocialshare2/readme.txt",
+		"/C/Users/root/Desktop/New folder (2)/stackdesignsocialshare2/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"br",
+			"sidebar",
+			"side",
+			"__",
+			"_",
+			"_e",
+			"hr",
+			"color",
+			"red",
+			"font-si",
+			"font-we",
+			"font",
+			"font-si",
+			"font-we",
+			"widget",
+			"head",
+			"tit",
+			"font",
+			"font-w"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/php.sublime-build",
+	"project": "stackdesign.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\root\\Documents\\laravel\\hashnet\\hashnet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

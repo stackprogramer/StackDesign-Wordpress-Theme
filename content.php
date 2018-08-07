@@ -35,9 +35,9 @@ https://bootsnipp.com/snippets/r1kjW-->
           <?php endif; ?>
         </div>
         <div class="col-xs-12 col-sm-7 col-md-7">
-          <h4><a href="<?php the_permalink(); ?>">
+          <h2><a href="<?php the_permalink(); ?>">
             <?php the_title(); ?>
-            </a></h4>
+            </a></h2>
           <div class="list-group">
             <div class="list-group-item">
               <div class="row-picture"> <a href="#" title="sintret">
@@ -46,9 +46,9 @@ https://bootsnipp.com/snippets/r1kjW-->
 									  echo get_avatar( get_the_author_meta( 'ID' ) , 128); ?>
                 </a> </div>
               <div class="row-content">
-                <div class="list-group-item-heading"> <a href="#" title="sintret"> <small> <?php echo __( 'Published by','stackdesign'); ?>:
+                <div class="list-group-item-heading"> <a href="#" title="sintret"> <?php echo __( 'Published by','stackdesign'); ?>:
                   <?php the_author(); ?>
-                  </small> </a> </div>
+                  </a> </div>
                 <small> <i class="glyphicon glyphicon-time"></i> <?php echo get_the_date('F j, Y g:i a'); ?> <br>
                 <i class="glyphicon  glyphicon-eye-open"></i> <?php echo getPostViews(get_the_ID()).' '.__( 'is viewed','stackdesign'); ?> <br>
                 <span class="explore"><i class="glyphicon glyphicon-education"></i> <a href="#"> <?php echo __( 'Number of posts:','stackdesign'); ?>
@@ -68,12 +68,13 @@ https://bootsnipp.com/snippets/r1kjW-->
         <?php the_category(', ') ?>
         <strong>|</strong>
         <?php 
-				edit_post_link(__( 'Edit', 'stackdesign'),'<i class="glyphicon glyphicon-edit"></i>','<strong>|</strong>');                ?>
+				edit_post_link(__( 'Edit', 'stackdesign'),' <i class="glyphicon glyphicon-edit">      </i>','<strong>|</strong>');                ?>
         <i class="glyphicon glyphicon-comment"> </i>
         <?php comments_popup_link(__( 'Leave a comment', 'stackdesign'), __( '1 comment', 'stackdesign'),__( '% Comments', 'stackdesign')); ?>
       </p>
       <p> <i class="glyphicon glyphicon-tags"></i>
-        <?php the_tags(); ?>
+        <?php  
+		the_tags(_x( 'Tags', 'Used before tag names.','stackdesign'),' , ' ); ?>
       </p>
       <hr>
     </div>

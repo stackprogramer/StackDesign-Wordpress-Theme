@@ -10,11 +10,10 @@ get_header(); ?>
   <div id="primary" class="content-area">
     <main id="main" class="site-main" role="main">
       <div class="alert alert-success" >
-        <p>My Site features articles about </p>
         <?php  echo get_bloginfo( 'description' );?>
-        <p><?php echo the_tags(); ?></p>
+        <p><?php echo the_tags(_x( 'Tags', 'Used before tag names.','stackdesign'),' , ' ); ?></p>
       </div>
-      <p>To search my website, please use the form below.</p>
+      
       <?php get_search_form(); ?>
       <?php
                   
@@ -24,17 +23,34 @@ get_header(); ?>
                   $search = new WP_Query( $search_query );
                   
                   ?>
-      <?php
-				  
-                  global $wp_query;
-                  $total_results = $wp_query->found_posts;
-                  echo $total_results;
-				  get_template_part( 'content', get_post_format() );
-				 
+                  <?php
+				  if ( have_posts() ) :
+	               $total_results = $wp_query->found_posts;
+				   echo '<div class="alert alert-success" >'.sprintf(__( 'Search Results for: %s', 'stackdesign' ),$total_results).'</div>';
+					// Start the loop.
+					while ( have_posts() ) :
+						the_post();
+							
+							  global $wp_query;
+							
+							  get_template_part( 'content', get_post_format() );
+							  
+							  
+				  // End the loop.
+			      endwhile;	
+				  // Previous/next page navigation.
+							  the_posts_pagination(array('screen_reader_text'=> __( 'Posts navigation', 'stackdesign' ),
+												'prev_text'          => __( 'Previous page', 'stackdesign' ),
+												'next_text'          => __( 'Next page', 'stackdesign' ),
+												'before_page_number' => '<span class="meta-nav screen-reader-text">' . __(                                            'Page', 'stackdesign' ) . ' </span>',		));
+							 
+				  else :
+							  get_template_part( 'content', 'none' );	  
+							echo'  <div class="alert alert-warning" ><p>'.__( 'Sorry, but nothing matched your search terms. Please try again with some different keywords.', 'stackdesign' ).'</p></div>';
+
+		          endif;
                   ?>
-      <h2 class="pagetitle">Search Result for
-        <?php /* Search Count */ $allsearch = &new WP_Query("s=$s&showposts=-1"); $key = wp_specialchars($s, 1); $count = $allsearch->post_count; _e(''); _e('<span class="search-terms">'); echo $key; _e('</span>'); _e(' &mdash; '); echo $count . ' '; _e('articles'); wp_reset_query(); ?>
-      </h2>
+     
     </main>
   </div>
 </div>
