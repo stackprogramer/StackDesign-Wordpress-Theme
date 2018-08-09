@@ -72,6 +72,10 @@ Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3
 
 == Changelog ==
 
+=.95=
+*Released: August 9, 2018, I added initial customizer to template" 
+
+
 = .7 =
 * Released: August 7, 2018 ,I completed some css properties ana adding topbar and bottombar postions, improving typography
 

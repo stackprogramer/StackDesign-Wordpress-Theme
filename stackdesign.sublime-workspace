@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"li",
+				"link_text_color"
+			],
+			[
+				"ord",
+				"ordinary_textcolor"
+			],
+			[
+				"acti",
+				"active_menu_background_color"
+			],
+			[
+				"cust",
+				"custom-header"
+			],
+			[
 				"background-",
 				"background-color"
 			],
@@ -43,7 +59,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 4771,
+				"buffer_size": 4629,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -137,22 +153,40 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign"
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/ribboncorner.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/footer.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/customizer.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/stackdesignsocialshare.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesignsocialprofile.php",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesign-social-profile-widget.css",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style.css",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style-rtl.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/style.css",
+		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/socialbuttons.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/comment.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/functions.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/bloglist.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/custom-header.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/widgets-rtl.css",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/customizer.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/functions.php",
+		"/C/Users/root/Desktop/LP",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/content.php",
+		"/C/Users/root/Desktop/WP/StackDesignApp/.gitignore",
+		"/C/Users/root/Desktop/WP/StackDesignApp/app/.gitignore",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/inc/custom-header.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/functions.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/content.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/index.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style-rtl.css",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style.css",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/widgets.css",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/style.css",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/bloglist.css",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesignsocialprofile.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/socialbuttons.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/stackdesignsocialshare.php",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/setting.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/css/comment.css",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/footer.php",
@@ -229,8 +263,6 @@
 		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/readme.txt",
 		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/index.php",
 		"/C/Users/root/Desktop/WP/twentyfifteen/inc/custom-header.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/inc/customizer.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/functions.php",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/style-rtl.css",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/socialbuttons.php",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/stackdesignsocialshare.php",
@@ -254,25 +286,11 @@
 		"/C/Users/root/Desktop/WP/twentyfifteen/content-search.php",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/readme.txt",
 		"/C/Users/root/Desktop/WP/StackDesignApp/app/build/outputs/apk/debug/output.json",
-		"/C/Users/root/Desktop/d.java",
-		"/C/Users/root/Desktop/WP/StackDesignApp/.gitignore",
-		"/C/Users/root/Desktop/WP/twentyfifteen/inc/back-compat.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesign-social-profile-widget.css",
-		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialprofile/README.md",
-		"/C/Users/root/Desktop/WP/twentyfifteen/index.php",
-		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/readme.txt",
-		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialprofile/stackdesignsocialprofile.php",
-		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/stackdesignsocialshare.php",
-		"/C/xampp/htdocs/wp/wp-content/plugins/socialprofile/stackdesign-social-profile-widget.css",
-		"/C/xampp/htdocs/wp/wp-content/plugins/socialprofile/scialprofile.php",
-		"/C/xampp/htdocs/wp/wp-content/plugins/stackdesignsocialshare2/socialbuttons.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/README.md",
-		"/C/Users/root/Desktop/New folder (2)/stackdesignsocialshare2/readme.txt",
-		"/C/Users/root/Desktop/New folder (2)/stackdesignsocialshare2/README.md"
+		"/C/Users/root/Desktop/d.java"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -286,6 +304,36 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$wp_customiz",
+			"back",
+			"a",
+			"color",
+			"background",
+			"$color_textcolor_rgb",
+			"%1$",
+			"inline_st",
+			"stackdesign_header_style",
+			"stackdesign_get_color_scheme_css",
+			"js",
+			"$colors",
+			"twentyfifteen",
+			"your",
+			"twentyfifteen_fonts_url() ",
+			"twentyfifteen_get_color_scheme",
+			"themename_custom_logo_setup",
+			"logo",
+			"loggo",
+			"menu",
+			"nav",
+			"twentyfifteen_javascript_detection",
+			"</script",
+			"<script",
+			"script",
+			"tackdesign_get_color_scheme_css",
+			"<<<CSS",
+			"1.0",
+			"Twenty Fifteen",
+			"twentyfifteen",
 			"br",
 			"sidebar",
 			"side",
@@ -312,6 +360,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"stackdesign",
+			"0.9",
+			"Stack Design",
+			"stackdesign"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -331,15 +383,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4771,
+						"buffer_size": 4629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								952,
-								934
+								1479,
+								1479
 							]
 						],
 						"settings":
@@ -347,7 +399,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2779.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -358,7 +410,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 22.0
 	},
 	"input":
 	{
