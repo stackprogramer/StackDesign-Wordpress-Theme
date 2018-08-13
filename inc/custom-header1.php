@@ -97,51 +97,17 @@ if ( ! function_exists( 'stackdesign_header_style' ) ) :
 		<?php
 		// Short header for when there is no Custom Header and Header Text is hidden.
 		if ( empty( $header_image ) && ! display_header_text() ) :
+
+		    return;
 	?>
-		.site-header {
-			padding-top: 14px;
-			padding-bottom: 14px;
-		}
-
-		.site-branding {
-			min-height: 42px;
-		}
-
-		@media screen and (min-width: 46.25em) {
-			.site-header {
-				padding-top: 21px;
-				padding-bottom: 21px;
-			}
-			.site-branding {
-				min-height: 56px;
-			}
-		}
-		@media screen and (min-width: 55em) {
-			.site-header {
-				padding-top: 25px;
-				padding-bottom: 25px;
-			}
-			.site-branding {
-				min-height: 62px;
-			}
-		}
-		@media screen and (min-width: 59.6875em) {
-			.site-header {
-				padding-top: 0;
-				padding-bottom: 0;
-			}
-			.site-branding {
-				min-height: 0;
-			}
-		}
+		
 	<?php
 		endif;
 
 		// Has a Custom Header been added?
 		if ( ! empty( $header_image ) ) :
 	?>
-		.site-header {
-
+		.blog-masthead {
 			/*
 			 * No shorthand so the Customizer can override individual properties.
 			 * @see https://core.trac.wordpress.org/ticket/31460
@@ -155,27 +121,7 @@ if ( ! function_exists( 'stackdesign_header_style' ) ) :
 			background-size:         cover;
 		}
 
-		@media screen and (min-width: 59.6875em) {
-			body:before {
-
-				/*
-				 * No shorthand so the Customizer can override individual properties.
-				 * @see https://core.trac.wordpress.org/ticket/31460
-				 */
-				background-image: url(<?php header_image(); ?>);
-				background-repeat: no-repeat;
-				background-position: 100% 50%;
-				-webkit-background-size: cover;
-				-moz-background-size:    cover;
-				-o-background-size:      cover;
-				background-size:         cover;
-				border-right: 0;
-			}
-
-			.site-header {
-				background: transparent;
-			}
-		}
+	
 	<?php
 		endif;
 
@@ -213,26 +159,11 @@ function stackdesign_header_background_color_css() {
 	$css = '
 		/* Custom Header Background Color */
 		body:before,
-		.site-header {
+		.blog-masthead  {
 			background-color: %1$s;
 		}
 
-		@media screen and (min-width: 59.6875em) {
-			.site-header,
-			.secondary {
-				background-color: transparent;
-			}
-
-			.widget button,
-			.widget input[type="button"],
-			.widget input[type="reset"],
-			.widget input[type="submit"],
-			.widget_calendar tbody a,
-			.widget_calendar tbody a:hover,
-			.widget_calendar tbody a:focus {
-				color: %1$s;
-			}
-		}
+		
 	';
 
 	wp_add_inline_style( 'stackdesign-style', sprintf( $css, $header_background_color ) );
@@ -246,6 +177,7 @@ add_action( 'wp_enqueue_scripts', 'stackdesign_header_background_color_css', 11 
  */
 function stackdesign_sidebar_text_color_css() {
 	$color_scheme       = stackdesign_get_color_scheme();
+	$sidebar_textcolor = stackdesign_get_color_scheme();
 	$default_color      = $color_scheme[4];
 	$sidebar_link_color = get_theme_mod( 'sidebar_textcolor', $default_color );
 
@@ -259,14 +191,17 @@ function stackdesign_sidebar_text_color_css() {
 	$sidebar_text_color         = vsprintf( 'rgba( %1$s, %2$s, %3$s, 0.7)', $sidebar_link_color_rgb );
 	$sidebar_border_color       = vsprintf( 'rgba( %1$s, %2$s, %3$s, 0.1)', $sidebar_link_color_rgb );
 	$sidebar_border_focus_color = vsprintf( 'rgba( %1$s, %2$s, %3$s, 0.3)', $sidebar_link_color_rgb );
+    
+	$css ='
 
-	$css = '
-		
+	.widget-title,.fn,.corner-ribbon {
+	 background-color:%1$s;
+	 color:'.$sidebar_textcolor .';
+   }		
 	';
 
    wp_add_inline_style( 'style', sprintf( $css, $sidebar_link_color, $sidebar_text_color, $sidebar_border_color, $sidebar_border_focus_color ) );
 	
 		               
-		 wp_add_inline_style( 'ekto', $custom_css );
 }
 add_action( 'wp_enqueue_scripts', 'stackdesign_sidebar_text_color_css', 11 );

@@ -30,12 +30,10 @@
 			endwhile; 
 			endif; 
 			 // Previous/next page navigation.
-							  the_posts_pagination(array('screen_reader_text'=> __( 'Posts navigation', 'stackdesign' ),
+			    the_posts_pagination(array('screen_reader_text'=> __( 'Posts navigation', 'stackdesign' ),
 												'prev_text'          => __( 'Previous page', 'stackdesign' ),
 												'next_text'          => __( 'Next page', 'stackdesign' ),
-												'before_page_number' => '<span class="meta-nav screen-reader-text">' . __(                                            'Page', 'stackdesign' ) . ' </span>',		));
-			echo "<br><br>";
-
+												'before_page_number' => '<span class="meta-nav screen-reader-text">' . __(                                            'Page', 'stackdesign' ) . ' </span>',));
 			?>
   </div>
   <!-- /.blog-main -->

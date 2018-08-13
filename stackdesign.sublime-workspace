@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"bod",
+				"body_background_color"
+			],
+			[
+				"cha",
+				"change_to_default_colors_checkbox"
+			],
+			[
+				"header",
+				"header_footer"
+			],
+			[
+				"color",
+				"color_scheme"
+			],
+			[
+				"cust",
+				"customize-preview"
+			],
+			[
+				"font",
+				"stackdesign_get_font_size_schemes"
+			],
+			[
+				"Larg",
+				"larger"
+			],
+			[
 				"li",
 				"link_text_color"
 			],
@@ -16,16 +44,8 @@
 				"active_menu_background_color"
 			],
 			[
-				"cust",
-				"custom-header"
-			],
-			[
 				"background-",
 				"background-color"
-			],
-			[
-				"font",
-				"font-style"
 			],
 			[
 				"font-s",
@@ -59,7 +79,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 4629,
+				"buffer_size": 4677,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -154,30 +174,36 @@
 	"expanded_folders":
 	[
 		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc"
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/js"
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/ribboncorner.css",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/footer.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/functions.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/customizer.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/functions.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/js/theme-customizer.js",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/footer.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/customizer1.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/custom-header.php",
+		"/C/Users/root/Desktop/WP/twentyfifteen/inc/customizer.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/custom-header.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/style.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/bloglist.css",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/header.php",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/index.php",
+		"/C/Users/root/Desktop/LP",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/content.php",
+		"/C/Users/root/Desktop/mail iran",
+		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/ribboncorner.css",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/stackdesignsocialshare.php",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesignsocialprofile.php",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialProfileWidget/stackdesign-social-profile-widget.css",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style.css",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/style-rtl.css",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/style.css",
 		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/socialbuttons.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/comment.css",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/functions.php",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/bloglist.css",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/inc/custom-header.php",
 		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/css/widgets-rtl.css",
-		"/C/Users/root/Desktop/WP/twentyfifteen/inc/customizer.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/functions.php",
-		"/C/Users/root/Desktop/LP",
-		"/C/xampp/htdocs/wps2/wp-content/themes/StackDesign-Wordpress-Theme/content.php",
 		"/C/Users/root/Desktop/WP/StackDesignApp/.gitignore",
 		"/C/Users/root/Desktop/WP/StackDesignApp/app/.gitignore",
 		"/C/xampp/htdocs/wps2/wp-content/themes/stackdesign/inc/custom-header.php",
@@ -262,7 +288,6 @@
 		"/C/Users/root/Desktop/WP/StackDesignApp/app/src/main/java/xyz/stackprogramer/stackdesign/stackdesign/NewAsync.java",
 		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/readme.txt",
 		"/C/xampp/htdocs/wp/wp-content/themes/stackdesign/index.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/inc/custom-header.php",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/style-rtl.css",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/socialbuttons.php",
 		"/C/xampp/htdocs/wp/wp-content/plugins/StackDesignSocialShare-1/stackdesignsocialshare.php",
@@ -281,12 +306,7 @@
 		"/C/Users/root/Desktop/1.json",
 		"/C/Users/root/Desktop/2.java",
 		"/C/Users/root/Desktop/WP/twentyfifteen/inc/template-tags.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/content.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/search.php",
-		"/C/Users/root/Desktop/WP/twentyfifteen/content-search.php",
-		"/C/Users/root/Desktop/New folder (2)/StackDesignSocialShare/readme.txt",
-		"/C/Users/root/Desktop/WP/StackDesignApp/app/build/outputs/apk/debug/output.json",
-		"/C/Users/root/Desktop/d.java"
+		"/C/Users/root/Desktop/WP/twentyfifteen/content.php"
 	],
 	"find":
 	{
@@ -304,6 +324,62 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"heade",
+			"header-i",
+			"backgro",
+			"support",
+			"suport",
+			"add-th",
+			"footer_cop",
+			"body_background_color",
+			"sidebar_widget_text_color",
+			"ordinary_text_color",
+			"footer",
+			"footer_background_color",
+			"form_background_color",
+			"active_menu_background_color",
+			"menu_background_color",
+			"sidebar_widget_inner_background_color",
+			"theme_text_color",
+			"theme_background_color",
+			"header_background_color",
+			"body_background_color",
+			"menu_text_color",
+			"form_text_color",
+			"footer",
+			"menu_text_color",
+			"sidebar_widget_text_color",
+			"header_text_color",
+			"menu",
+			"hover_link_text_color",
+			"link_text_color",
+			"ordinary_text_color",
+			"form_background_color",
+			"active_menu_background_color",
+			"menu_background_color",
+			"sidebar_widget_inner_background_color",
+			"theme_text_color",
+			"theme_background_color",
+			"blogname",
+			"js",
+			".js",
+			"background",
+			"mytheme",
+			"MyTheme",
+			"color_scheme",
+			"Base Color Scheme",
+			"add_section",
+			"stackdesign_get_color_scheme",
+			"background-colo",
+			"background-image",
+			"top",
+			"pad",
+			"padd",
+			"background",
+			"get_section",
+			"-",
+			"br",
+			"color_scheme",
 			"$wp_customiz",
 			"back",
 			"a",
@@ -361,6 +437,9 @@
 		"replace_history":
 		[
 			"stackdesign",
+			"StackDesign",
+			"*",
+			"stackdesign",
 			"0.9",
 			"Stack Design",
 			"stackdesign"
@@ -383,15 +462,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4629,
+						"buffer_size": 4677,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1479,
-								1479
+								934,
+								934
 							]
 						],
 						"settings":
@@ -399,7 +478,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2779.0,
+						"translation.y": 135.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -410,7 +489,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 23.0
 	},
 	"input":
 	{

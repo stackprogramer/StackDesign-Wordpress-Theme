@@ -6,13 +6,13 @@
 	overflow: hidden;
 	border: 0;
 	border-radius: 0;
-	padding: 0 16px;
+	padding: 0 4px;
 }
 .list-group .list-group-item .row-picture, .list-group .list-group-item .row-action-primary {
 	float: left;
 	display: inline-block;
-	padding-right: 16px;
-	padding-top: 8px;
+	padding-right: 8px;
+	padding-top: 4px;
 }
 .list-group .list-group-item .row-picture img, .list-group .list-group-item .row-action-primary img, .list-group .list-group-item .row-picture i, .list-group .list-group-item .row-action-primary i, .list-group .list-group-item .row-picture label, .list-group .list-group-item .row-action-primary label {
 	display: block;

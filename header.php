@@ -1,12 +1,14 @@
-<!DOCTYPE html>
-<html <?php language_attributes(); ?> >
-<!-- +-----------------------+------------------+-------------------------+
+<!--
++***********************+******************+*************************+
 |  StackDesignTemplate  | Version/Language |          Date           |  
-+-----------------------+------------------+-------------------------+
++***********************+******************+*************************+
 | Bootsrap technology   | 3.3              | Released: June 23, 2018 |  
 | Jquery                | 1.1              | Pro Version 1.2         |  
 | Dual-language support | English,Persian  |                         |  
-+-----------------------+------------------+-------------------------+ -->
++***********************+******************+*************************+
+-->
+<!DOCTYPE html>
+<html <?php language_attributes(); ?> >
       <head>
       <meta charset="<?php bloginfo( 'charset' ); ?>">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
