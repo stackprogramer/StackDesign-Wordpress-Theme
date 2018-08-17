@@ -74,6 +74,7 @@ Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3
 
 
 ## Changelog
+* v 1.1 released: August 17, 2018, I updated translation files and screenshot" 
 * v 1.0 released: August 13, 2018, I added intermediate customizer to template" 
 * v .95 released: August 9, 2018, I added initial customizer to template" 
 * v.7 released: August 7, 2018 , I completed some css properties ana adding topbar and bottombar postions, improving typography

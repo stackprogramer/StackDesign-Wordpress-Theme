@@ -71,6 +71,11 @@ Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3
 
 
 == Changelog ==
+
+=1.1=
+
+*Released: August 17, 2018, I updated translation files and screenshot" " 
+
 =1.0=
 
 *Released: August 13, 2018, I added intermediate customizer to template" 

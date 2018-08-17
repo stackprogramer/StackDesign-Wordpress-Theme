@@ -2,12 +2,12 @@
 
 <br>
 <br>
-<div class="alert alert-success" role="alert">
+<!-- <div class="alert alert-success" role="alert">
   <h4 class="alert-heading">در حال توسعه</h4>
   <p>.این وبلاگ در حال توسعه و بازسازی قالب خود است. محتوا هم چنان قابل دسترس است. از صبوری شما سپاسگذارم</p>
   <hr>
   <p class="mb-0">Developing <?php echo get_locale(); ?> This blog is developing and rebuilding your template. Content is still available. Thank you for your patience.</p>
-</div>
+</div> -->
 <!-- Topbar position -->
 <div   class="row">
 			<?php
