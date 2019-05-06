@@ -36,6 +36,13 @@ For more information about Stack Design  template please go to https://blog.stac
 4. Go to https://github.com/stackprogramer/StackDesign-Wordpress-Theme for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
+**Demo**
+
+<img src="http://www.mediafire.com/convkey/fc9c/7h0vx64iu5525anzg.jpg" width="300" height="200">
+
+**Demo video**
+
+[![Stack Design Wordpress theme ](https://www.mediafire.com/convkey/d117/p1k49cdp6l06g9zzg.jpg)](https://www.aparat.com/v/fUEH6 "SD")
 
 
 ## Copyright 
