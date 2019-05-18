@@ -72,9 +72,14 @@ Source:https://irfont.ir/fonts/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3
 
 == Changelog ==
 
+=1.2=
+
+*Released: May 18, 2019, I fixed title and cheatsheet errors" 
+
+
 =1.1=
 
-*Released: August 17, 2018, I updated translation files and screenshot" " 
+*Released: August 17, 2018, I updated translation files and screenshot " 
 
 =1.0=
 
